@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/01c8449f8b.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="javasricpt.js" defer></script>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Products</title>
+  </head>
+  <body>
+    <div class="main-app">
+      <header class="header">
+        <h1 class="website-logo">shopify</h1>
+        <div>
+          <input
+            type="search"
+            id="inputSearch"
+            class="search-box"
+            placeholder="Search"
+          />
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        </div>
+        <nav class="nav-links">
+          <ul class="md-nav-links-list">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>
+          <ul class="sm-nav-links-list">
+            <li>
+              <a href=""><i class="fa-solid fa-house icon"></i></a>
+            </li>
+            <li>
+              <a href=""><i class="fa-solid fa-store icon"></i></a>
+            </li>
+            <li>
+              <a href=""><i class="fa-solid fa-cart-shopping icon"></i></a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <div class="products-section">
+        <h1 class="products-heading">Latest Fashion Products</h1>
+        <ul class="category-list" id="productsCategoryList"></ul>
+        <ul class="product-list" id="productsList"></ul>
+      </div>
+    </div>
+  </body>
+</html>
