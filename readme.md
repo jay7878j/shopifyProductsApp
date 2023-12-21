@@ -9,8 +9,12 @@ HTML, CSS, JAVASCRIPT
 ## Designs Files
 
 - [Mobile Screen: Up to 767px](https://asset.cloudinary.com/amjay/91038bae3e28add24c5e70b6dd39ca7f)
-- [Desktop Screen: Above 1025px](https://asset.cloudinary.com/amjay/994452580c7c0b218637b96b10f77769)
+- [Desktop Screen: above 1025px](https://asset.cloudinary.com/amjay/994452580c7c0b218637b96b10f77769)
 - [Tablet Screen: 768px to 1024px](https://asset.cloudinary.com/amjay/20eb769bc9771e6e37a879f589017203)
+
+## Published Link
+
+- [Deployed Link: Shopify Products Application](https://shopify-products-app.vercel.app/)
 
 ## API Reference
 
